@@ -10,3 +10,4 @@ $ mkdir gittest
 $ cd gittest
 $ git init
 $ git add test.txt
+test2
