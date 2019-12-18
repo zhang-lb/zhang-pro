@@ -10,3 +10,5 @@ $ mkdir gittest
 $ cd gittest
 $ git init
 $ git add test.txt
+$ git commit -m "変更してみたよ"
+$ git push origin master
